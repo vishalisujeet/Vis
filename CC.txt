@@ -1,0 +1,6 @@
+Sr. No.	Key	Break	Continue
+1	Functionality	Break statement mainly used to terminate the enclosing loop such as while, do-while, for or switch statement wherever break is declared.	Continue statement mainly skip the rest of loop wherever continue is declared and execute the next iteration.
+2	Executional flow	Break statement resumes the control of the program to the end of loop and made executional flow outside that loop.	Continue statement resumes the control of the program to the next iteration of that loop enclosing 'continue' and made executional flow inside the loop again.
+3	Usage	As mentioned break is used for the termination of enclosing loop.	On other hand continue causes early execution of the next iteration of the enclosing loop.
+4	Compatibility	Break statement can be used and compatible with 'switch', 'label'.	We can't use continue statement with 'switch','lablel' as it is not compatible with them.
+5	Task	It terminates the execution of remaining iteration of the loop.	It terminates only the current iteration of the loop.
